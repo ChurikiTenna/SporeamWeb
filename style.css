@@ -20,6 +20,7 @@
     padding: 30px;
 }
 .header {
+    width: fill;
     font-size: 24px;
     font-weight: bold;
     text-decoration: none;
@@ -43,6 +44,7 @@
     align-self: center;
 }
 .smallHeader {
+    width: fill;
     font-size: 16px;
     font-weight: bold;
     text-decoration: none;
@@ -53,6 +55,7 @@
     align-self: center;
 }
 .longText {
+    width: fill;
     font-size: 14px;
     font-weight: bold;
     text-decoration: none;
