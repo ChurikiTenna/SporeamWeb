@@ -21,3 +21,15 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.semiHeader {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px 10px 10px;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: center;
+}
