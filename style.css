@@ -27,10 +27,8 @@
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-    padding: 10px, 60px;
+    padding: 20px, 60px;
     color: green;
-    border-radius: 5px;
-    cursor: pointer;
     align-self: center;
     display: inline-block;
 }
