@@ -48,7 +48,7 @@
 }
 .smallHeader {
     list-style: none;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -60,7 +60,7 @@
 }
 .longText {
     list-style: none;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     text-align: left;
