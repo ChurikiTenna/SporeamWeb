@@ -31,6 +31,8 @@
     color: green;
     align-self: center;
     display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .semiHeader {
     list-style: none;
@@ -43,6 +45,8 @@
     border-radius: 5px;
     align-self: center;
     padding: 10px, 60px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .smallHeader {
     list-style: none;
@@ -55,6 +59,8 @@
     border-radius: 5px;
     align-self: center;
     padding: 10px, 60px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .longText {
     list-style: none;
@@ -68,6 +74,9 @@
     padding: 10px, 60px;
     margin-left: 100px;
     margin-right: 100px;
+}
+.margin100 {
+    margin: 100;
 }
 .text-center{
     text-align: center;
