@@ -92,8 +92,7 @@ body, html {
     /*filter: blur(8px);*/
     /*-webkit-filter: blur(8px);*/
     /* Full height */
-    width: auto;                            
-    height: 500pX;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,7 +102,7 @@ body, html {
     /*filter: blur(8px);*/
     /*-webkit-filter: blur(8px);*/
     /* Full height */
-    width: auto;                            
+    width: 100%;                            
     height: 200pX;
     background-position: center;
     background-repeat: no-repeat;
