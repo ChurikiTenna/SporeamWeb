@@ -98,6 +98,17 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.iconImage {
+    background-image: url("images/icon.jpg");
+    /*filter: blur(8px);*/
+    /*-webkit-filter: blur(8px);*/
+    /* Full height */
+    width: auto;                            
+    height: 200pX;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .bg-text {
     background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
