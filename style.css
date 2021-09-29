@@ -7,7 +7,7 @@
 
 .button {
     width: 220px;
-    font-size: 18px;
+    font-size: 2vw;
     font-weight: bold;
     text-decoration: none;
     display: inline-block;
@@ -23,7 +23,7 @@
 .header {
     list-style: none;
     width: fill;
-    font-size: 90px;
+    font-size: 10vw;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -36,7 +36,7 @@
 
 .longText {
     list-style: none;
-    font-size: 18px;
+    font-size: 2vw;
     font-weight: bold;
     text-decoration: none;
     text-align: left;
@@ -55,13 +55,13 @@
 body {
     font-family: "Roman";
     font-weight: 200; 
-    font-size: 20px;
+    font-size: 2vw;
     margin: 0;
     padding: 0;
 }
 strong { 
     font-weight: 900; 
-    font-size: 24px;
+    font-size: 2.2vw;
 }
 
 .soccerImage {
